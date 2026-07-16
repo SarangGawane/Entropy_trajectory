@@ -1,0 +1,66 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/399 [00:00<?, ?it/s]Loading weights:   0%|          | 1/399 [00:00<00:41,  9.63it/s]Loading weights:   1%|          | 2/399 [00:00<00:45,  8.69it/s]Loading weights:   7%|▋         | 27/399 [00:00<00:03, 106.96it/s]Loading weights:  13%|█▎        | 52/399 [00:00<00:02, 159.47it/s]Loading weights:  20%|█▉        | 78/399 [00:00<00:01, 194.08it/s]Loading weights:  26%|██▌       | 103/399 [00:00<00:01, 211.17it/s]Loading weights:  32%|███▏      | 126/399 [00:00<00:01, 216.75it/s]Loading weights:  39%|███▉      | 155/399 [00:00<00:01, 231.28it/s]Loading weights:  45%|████▌     | 181/399 [00:00<00:00, 238.89it/s]Loading weights:  53%|█████▎    | 213/399 [00:01<00:00, 257.11it/s]Loading weights:  60%|█████▉    | 239/399 [00:01<00:00, 254.32it/s]Loading weights:  67%|██████▋   | 268/399 [00:01<00:00, 258.75it/s]Loading weights:  74%|███████▎  | 294/399 [00:01<00:00, 247.96it/s]Loading weights:  80%|███████▉  | 319/399 [00:01<00:00, 240.21it/s]Loading weights:  86%|████████▌ | 344/399 [00:01<00:00, 239.38it/s]Loading weights:  92%|█████████▏| 368/399 [00:01<00:00, 219.80it/s]Loading weights:  98%|█████████▊| 391/399 [00:01<00:00, 212.06it/s]Loading weights: 100%|██████████| 399/399 [00:01<00:00, 213.90it/s]
+resuming at idx 135: 365 of 500 problems remain
+batching in order of 'level' to shrink ragged-batch waste
+[6/365] acc=0.833 steps=1908 elapsed=2.8m eta=166.9m
+[12/365] acc=0.917 steps=1597 elapsed=4.2m eta=123.5m
+[18/365] acc=0.833 steps=3533 elapsed=7.3m eta=140.9m
+[24/365] acc=0.875 steps=2756 elapsed=9.2m eta=130.5m
+[30/365] acc=0.867 steps=2802 elapsed=12.2m eta=136.2m
+[36/365] acc=0.833 steps=8192 elapsed=17.6m eta=160.8m
+[42/365] acc=0.857 steps=1788 elapsed=20.7m eta=159.1m
+[48/365] acc=0.833 steps=5225 elapsed=23.6m eta=155.8m
+[54/365] acc=0.815 steps=8192 elapsed=27.8m eta=160.2m
+[60/365] acc=0.817 steps=2500 elapsed=31.0m eta=157.5m
+[66/365] acc=0.803 steps=3402 elapsed=33.8m eta=153.1m
+[72/365] acc=0.806 steps=3835 elapsed=37.9m eta=154.4m
+[78/365] acc=0.821 steps=4832 elapsed=40.8m eta=150.0m
+[84/365] acc=0.833 steps=1529 elapsed=43.7m eta=146.1m
+[90/365] acc=0.833 steps=3134 elapsed=49.2m eta=150.2m
+[96/365] acc=0.823 steps=3685 elapsed=55.3m eta=154.8m
+[102/365] acc=0.814 steps=2916 elapsed=59.2m eta=152.7m
+[108/365] acc=0.815 steps=3491 elapsed=64.9m eta=154.3m
+[114/365] acc=0.789 steps=2431 elapsed=66.9m eta=147.3m
+[120/365] acc=0.783 steps=1578 elapsed=70.4m eta=143.8m
+[126/365] acc=0.778 steps=2617 elapsed=76.9m eta=145.9m
+[132/365] acc=0.773 steps=8192 elapsed=81.4m eta=143.7m
+[138/365] acc=0.768 steps=8192 elapsed=87.3m eta=143.5m
+[144/365] acc=0.757 steps=2938 elapsed=91.9m eta=141.1m
+[150/365] acc=0.753 steps=2098 elapsed=97.4m eta=139.6m
+[156/365] acc=0.756 steps=3069 elapsed=102.8m eta=137.7m
+[162/365] acc=0.753 steps=5982 elapsed=109.2m eta=136.9m
+[168/365] acc=0.744 steps=8192 elapsed=114.2m eta=133.9m
+[174/365] acc=0.747 steps=4801 elapsed=117.5m eta=129.0m
+[180/365] acc=0.750 steps=5419 elapsed=122.5m eta=125.9m
+[186/365] acc=0.737 steps=8192 elapsed=130.8m eta=125.9m
+[192/365] acc=0.729 steps=8192 elapsed=136.5m eta=123.0m
+[198/365] acc=0.727 steps=1598 elapsed=142.3m eta=120.0m
+[204/365] acc=0.735 steps=3086 elapsed=145.6m eta=114.9m
+[210/365] acc=0.733 steps=7834 elapsed=154.4m eta=113.9m
+[216/365] acc=0.731 steps=2288 elapsed=160.5m eta=110.7m
+[222/365] acc=0.730 steps=8192 elapsed=168.4m eta=108.5m
+[228/365] acc=0.728 steps=3350 elapsed=174.6m eta=104.9m
+[234/365] acc=0.735 steps=2240 elapsed=179.2m eta=100.3m
+[240/365] acc=0.738 steps=7224 elapsed=185.0m eta=96.4m
+[246/365] acc=0.744 steps=5575 elapsed=189.9m eta=91.9m
+[252/365] acc=0.746 steps=1540 elapsed=194.4m eta=87.2m
+[258/365] acc=0.744 steps=3627 elapsed=200.9m eta=83.3m
+[264/365] acc=0.742 steps=7763 elapsed=208.3m eta=79.7m
+[270/365] acc=0.744 steps=5865 elapsed=216.8m eta=76.3m
+[276/365] acc=0.736 steps=8192 elapsed=227.0m eta=73.2m
+[282/365] acc=0.730 steps=6789 elapsed=235.2m eta=69.2m
+[288/365] acc=0.719 steps=8192 elapsed=242.1m eta=64.7m
+[294/365] acc=0.721 steps=3615 elapsed=248.0m eta=59.9m
+[300/365] acc=0.713 steps=8192 elapsed=256.4m eta=55.6m
+[306/365] acc=0.706 steps=8192 elapsed=265.1m eta=51.1m
+[312/365] acc=0.702 steps=8192 elapsed=271.9m eta=46.2m
+[318/365] acc=0.698 steps=3538 elapsed=279.0m eta=41.2m
+[324/365] acc=0.698 steps=8192 elapsed=285.8m eta=36.2m
+[330/365] acc=0.694 steps=8192 elapsed=291.5m eta=30.9m
+[336/365] acc=0.688 steps=2796 elapsed=298.5m eta=25.8m
+[342/365] acc=0.684 steps=8192 elapsed=306.0m eta=20.6m
+[348/365] acc=0.684 steps=5016 elapsed=312.3m eta=15.3m
+[354/365] acc=0.681 steps=8192 elapsed=320.6m eta=10.0m
+[360/365] acc=0.675 steps=8192 elapsed=327.6m eta=4.6m
+[365/365] acc=0.674 steps=6218 elapsed=334.7m eta=0.0m
+DONE out/math500_resume.jsonl.zst n=365 acc=0.6740

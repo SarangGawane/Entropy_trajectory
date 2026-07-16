@@ -1,0 +1,19 @@
+=== AIME24 2026-07-15T02:38:15Z ===
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[2/30] acc=1.000 steps=15628 elapsed=14.2m eta=199.2m
+[4/30] acc=0.500 steps=16384 elapsed=29.5m eta=191.9m
+[6/30] acc=0.667 steps=8939 elapsed=44.2m eta=176.9m
+[8/30] acc=0.750 steps=10400 elapsed=53.7m eta=147.6m
+[10/30] acc=0.800 steps=7636 elapsed=60.4m eta=120.8m
+[12/30] acc=0.750 steps=7480 elapsed=75.6m eta=113.5m
+[14/30] acc=0.714 steps=16384 elapsed=90.9m eta=103.9m
+[16/30] acc=0.750 steps=11267 elapsed=99.6m eta=87.1m
+[18/30] acc=0.778 steps=15954 elapsed=114.2m eta=76.1m
+[20/30] acc=0.800 steps=9677 elapsed=121.2m eta=60.6m
+[22/30] acc=0.727 steps=12653 elapsed=136.5m eta=49.7m
+[24/30] acc=0.750 steps=10969 elapsed=145.9m eta=36.5m
+[26/30] acc=0.731 steps=16384 elapsed=161.2m eta=24.8m
+[28/30] acc=0.714 steps=16384 elapsed=176.5m eta=12.6m
+[30/30] acc=0.667 steps=16058 elapsed=192.1m eta=0.0m
+DONE out/aime24.jsonl.zst n=30 acc=0.6667
+=== MATH500 2026-07-15T05:50:27Z ===

@@ -1,0 +1,4 @@
+torch==2.5.1
+transformers==5.13.1
+datasets==5.0.0
+zstandard==0.25.0

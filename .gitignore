@@ -1,0 +1,14 @@
+# virtualenv: 5.4 GB, machine-specific. Recreate with requirements.txt.
+.venv/
+__pycache__/
+*.pyc
+
+# Redundant intermediates: both are fully contained in out/math500.jsonl.zst.
+# math500_partial = the 135 traces salvaged from the killed first run;
+# math500_resume  = the 365 traces from the resumed run. Kept locally as
+# provenance, not worth 265 MB in git.
+out/math500_partial.jsonl.zst
+out/math500_resume.jsonl.zst
+
+# Reassembled at clone time from out/parts/ -- see README.
+out/math500.jsonl.zst
